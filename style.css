@@ -1,0 +1,146 @@
+
+
+img{
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  background-attachment: fixed;
+  overflow: hidden;
+  
+ } 
+
+.logo {
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    background: white;
+    width: 105px;
+    height: 113px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10%;
+    margin-left: 43%;
+    font-family: Poppins;
+    font-weight: bold;
+  }
+  
+  .headings {
+    position: relative;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    margin: auto;
+    font-size: 36px;
+    top: -240px;
+  }
+  
+  .location {
+    position: relative;
+    top: -238px;
+    margin-left: 29%;
+    margin-right: 20%;
+    text-align: center;
+  }
+  
+  .Select{
+    position:relative ;
+    height: 40px;
+    width: 310px;
+    color: gray;
+    border-radius: 0px;
+    font-size: 15px;
+    opacity: 0.7;
+    margin-right: 21px;
+    margin-bottom: 25px;
+    float: left;
+  }
+  .search-box-wrapper {
+    display: flex;
+    font-size: 15px;
+    left: 200px;
+    width: 310px ;
+    height: 40px ;
+}
+
+  .search-box-button {
+    position: inherit;
+    font-size: inherit;
+    border-left: 2;
+    border-color: white;
+    padding: 0 10px;
+    color: grey;
+    opacity: 0.7;
+}
+  .input {
+    height: 40px;
+    width: 310px;
+    color: gray;
+    font-size: 15px;
+    opacity: 0.7;
+    float: left;
+    padding-left: 20px;
+    
+  }
+  .QuickSearches {
+    position: absolute;
+    top: 500px;
+    margin-left: 15px;
+    margin-top: -35px;
+  }
+  
+  .Head {
+    text-align: left;
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-left: 35px;
+  }
+  
+  .SubHead{
+    text-align: left;
+    color: gray;
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 35px;
+  }
+  
+  .Container {
+    height: 160px;
+    width: 350px;
+    background-color: gainsboro;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+  }
+  
+  .left {
+    width: 45%;
+    float: left;
+  }
+  
+  .right {
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+  }
+  
+  .righth {
+    text-align: left;
+    color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .rightsh {
+    text-align: left;
+    color: black;
+    font-size: 18px;
+  }
+
+  
